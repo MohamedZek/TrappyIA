@@ -1,0 +1,82 @@
+{
+    "fièvre": {
+      "conseil": "Hydrate-toi, repose-toi. Prends du paracétamol si besoin.",
+      "medecin": "médecin généraliste"
+    },
+    "toux": {
+      "conseil": "Bois de l'eau tiède, évite les environnements enfumés.",
+      "medecin": "pneumologue"
+    },
+    "mal de tête": {
+      "conseil": "Repose-toi dans le calme, bois de l'eau, évite les écrans.",
+      "medecin": "médecin généraliste"
+    },
+    "mal de ventre": {
+      "conseil": "Évite les aliments gras, hydrate-toi, repose-toi.",
+      "medecin": "gastro-entérologue ou médecin généraliste"
+    },
+    "fatigue": {
+      "conseil": "Dors suffisamment, mange équilibré, hydrate-toi bien.",
+      "medecin": "médecin généraliste"
+    },
+    "mal de gorge": {
+      "conseil": "Bois des boissons tièdes, évite de parler trop.",
+      "medecin": "médecin généraliste"
+    },
+    "nausées": {
+      "conseil": "Mange léger, évite les aliments gras, repose-toi.",
+      "medecin": "gastro-entérologue ou médecin généraliste"
+    },
+    "vertiges": {
+      "conseil": "Assieds-toi ou allonge-toi, évite les mouvements brusques.",
+      "medecin": "neurologue"
+    },
+    "essoufflement": {
+      "conseil": "Reste calme, évite l'effort, consulte rapidement si persiste.",
+      "medecin": "pneumologue"
+    },
+    "éruption cutanée": {
+      "conseil": "Évite de gratter, applique une crème apaisante.",
+      "medecin": "dermatologue"
+    },
+    "palpitations": {
+      "conseil": "Reste calme, respire lentement, évite la caféine.",
+      "medecin": "cardiologue"
+    },
+    "douleurs articulaires": {
+      "conseil": "Repose l'articulation, applique du froid ou chaud.",
+      "medecin": "rhumatologue"
+    },
+    "troubles du sommeil": {
+      "conseil": "Évite les écrans avant de dormir, fais une routine.",
+      "medecin": "médecin généraliste"
+    },
+    "perte d'appétit": {
+      "conseil": "Mange en petites quantités, choisis des aliments que tu aimes.",
+      "medecin": "médecin généraliste"
+    },
+    "brûlures d'estomac": {
+      "conseil": "Évite les aliments acides ou épicés, mange lentement.",
+      "medecin": "gastro-entérologue"
+    },
+    "vision floue": {
+      "conseil": "Repose tes yeux, évite les écrans.",
+      "medecin": "ophtalmologue"
+    },
+    "battements irréguliers du cœur": {
+      "conseil": "Reste calme, évite le stress, consulte rapidement.",
+      "medecin": "cardiologue"
+    },
+    "douleurs thoraciques": {
+      "conseil": "Repose-toi, appelle les urgences si la douleur est intense.",
+      "medecin": "cardiologue"
+    },
+    "troubles de l'humeur": {
+      "conseil": "Parle à un proche ou un professionnel, prends soin de toi.",
+      "medecin": "psychiatre"
+    },
+    "perte d'équilibre": {
+      "conseil": "Évite les déplacements brusques, reste assis ou allongé.",
+      "medecin": "neurologue"
+    }
+  }

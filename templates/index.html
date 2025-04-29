@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Santé</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Bienvenue sur Chatbot Santé</h1>
+        <form action="/chat" method="POST">
+            <input type="text" name="user_input" placeholder="Quels sont vos symptômes ?" required>
+            <button type="submit">Envoyer</button>
+        </form>
+
+        {% if user_input %}
+        <div class="response">
+            <h2>Réponse : </h2>
+            <p>{{ response }}</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

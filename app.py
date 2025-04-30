@@ -59,6 +59,4 @@ def chat():
 
     return render_template('index.html', user_input=user_input, response=response.strip())
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
 

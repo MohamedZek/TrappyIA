@@ -1,13 +1,13 @@
 {
-    "fièvre": {
-      "conseil": "Hydrate-toi, repose-toi. Prends du paracétamol si besoin.",
+    "fievre": {
+      "conseil": "Hydrate-toi bien, repose-toi bien. Prends du paracétamol si besoin, sauf en cas particulier (ex. grossesse)",
       "medecin": "médecin généraliste"
     },
     "toux": {
       "conseil": "Bois de l'eau tiède, évite les environnements enfumés.",
       "medecin": "pneumologue"
     },
-    "mal de tête": {
+    "mal de tete": {
       "conseil": "Repose-toi dans le calme, bois de l'eau, évite les écrans.",
       "medecin": "médecin généraliste"
     },
@@ -23,7 +23,7 @@
       "conseil": "Bois des boissons tièdes, évite de parler trop.",
       "medecin": "médecin généraliste"
     },
-    "nausées": {
+    "nausees": {
       "conseil": "Mange léger, évite les aliments gras, repose-toi.",
       "medecin": "gastro-entérologue ou médecin généraliste"
     },
@@ -35,7 +35,7 @@
       "conseil": "Reste calme, évite l'effort, consulte rapidement si persiste.",
       "medecin": "pneumologue"
     },
-    "éruption cutanée": {
+    "eruption cutanee": {
       "conseil": "Évite de gratter, applique une crème apaisante.",
       "medecin": "dermatologue"
     },
@@ -51,11 +51,11 @@
       "conseil": "Évite les écrans avant de dormir, fais une routine.",
       "medecin": "médecin généraliste"
     },
-    "perte d'appétit": {
+    "perte d'appetit": {
       "conseil": "Mange en petites quantités, choisis des aliments que tu aimes.",
       "medecin": "médecin généraliste"
     },
-    "brûlures d'estomac": {
+    "brulures d'estomac": {
       "conseil": "Évite les aliments acides ou épicés, mange lentement.",
       "medecin": "gastro-entérologue"
     },
@@ -63,7 +63,7 @@
       "conseil": "Repose tes yeux, évite les écrans.",
       "medecin": "ophtalmologue"
     },
-    "battements irréguliers du cœur": {
+    "battements irreguliers du cœur": {
       "conseil": "Reste calme, évite le stress, consulte rapidement.",
       "medecin": "cardiologue"
     },
@@ -75,8 +75,96 @@
       "conseil": "Parle à un proche ou un professionnel, prends soin de toi.",
       "medecin": "psychiatre"
     },
-    "perte d'équilibre": {
+    "perte d'equilibre": {
       "conseil": "Évite les déplacements brusques, reste assis ou allongé.",
       "medecin": "neurologue"
+    },
+    "diarrhee": {
+      "conseil": "Hydrate-toi, mange léger et évite les produits laitiers.",
+      "medecin": "gastro-entérologue"
+    },
+    "constipation": {
+      "conseil": "Mange des fibres, bois beaucoup d'eau, fais de l'exercice.",
+      "medecin": "gastro-entérologue"
+    },
+    "vomissements": {
+      "conseil": "Évite les aliments solides, repose-toi, hydrate-toi.",
+      "medecin": "gastro-entérologue ou médecin généraliste"
+    },
+    "troubles urinaires": {
+      "conseil": "Bois beaucoup d'eau, évite les aliments irritants.",
+      "medecin": "urologue"
+    },
+    "gonflement des jambes": {
+      "conseil": "Évite de rester debout trop longtemps, surélève les jambes.",
+      "medecin": "cardiologue ou médecin généraliste"
+    },
+    "sang dans les selles": {
+      "conseil": "Consulte rapidement un médecin.",
+      "medecin": "gastro-entérologue"
+    },
+    "troubles respiratoires": {
+      "conseil": "Reste calme, consulte un médecin si la gêne persiste.",
+      "medecin": "pneumologue"
+    },
+    "rhinite": {
+      "conseil": "Évite les allergènes, utilise un spray nasal salin.",
+      "medecin": "médecin généraliste ou allergologue"
+    },
+    "sinusite": {
+      "conseil": "Utilise un décongestionnant nasal, repose-toi.",
+      "medecin": "ORL"
+    },
+    "maux de dos": {
+      "conseil": "Adopte une bonne posture, évite de porter des charges lourdes.",
+      "medecin": "rhumatologue ou médecin généraliste"
+    },
+    "brulures": {
+      "conseil": "Rince à l'eau froide, applique une crème apaisante.",
+      "medecin": "médecin généraliste"
+    },
+    "tremblements": {
+      "conseil": "Évite le stress, consulte un médecin si ça persiste.",
+      "medecin": "neurologue"
+    },
+    "confusion mentale": {
+      "conseil": "Assure-toi d'être bien hydraté et reposé, consulte un médecin rapidement.",
+      "medecin": "médecin généraliste ou neurologue"
+    },
+    "coup de chaleur": {
+      "conseil": "Reste à l'ombre, bois beaucoup d'eau, rafraîchis-toi.",
+      "medecin": "médecin généraliste"
+    },
+    "ganglions enfles": {
+      "conseil": "Applique une compresse chaude, consulte un médecin si ça dure.",
+      "medecin": "médecin généraliste"
+    },
+    "difficulte a avaler": {
+      "conseil": "Mange des aliments mous, consulte un médecin si cela persiste.",
+      "medecin": "ORL"
+    },
+    "demangeaisons": {
+      "conseil": "Applique une crème hydratante, évite de gratter.",
+      "medecin": "dermatologue"
+    },
+    "sueur excessive": {
+      "conseil": "Évite les environnements chauds, consulte un médecin si nécessaire.",
+      "medecin": "médecin généraliste"
+    },
+    "déshydratation": {
+      "conseil": "Bois beaucoup d'eau et consomme des électrolytes.",
+      "medecin": "médecin généraliste"
+    },
+    "perte de memoire": {
+      "conseil": "Fais des exercices mentaux, consulte un médecin si ça persiste.",
+      "medecin": "neurologue"
+    },
+    "baisse de libido": {
+      "conseil": "Essaie de gérer ton stress, consulte un médecin si ça persiste.",
+      "medecin": "médecin généraliste ou endocrinologue"
+    },
+    "tremblements des mains": {
+      "conseil": "Reste calme, consulte un médecin si les tremblements persistent.",
+      "medecin": "neurologue"
     }
-  }
+}
